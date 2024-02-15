@@ -35,10 +35,10 @@ Clock Speed	16 MHz
  
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
 
-FIGURE-01
+
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
-FIGURE-02
+
 ## PROCEDURE 
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
@@ -48,17 +48,12 @@ FIGURE-02
 5.	Check the simulation 
 
 
-
 ## CIRCUIT DIAGRAM 
 
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
-
-
-FIGURE -03
-
-
+![Screenshot 2024-02-15 111226](https://github.com/Harish2404lll/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/141472096/b4840b90-30bc-492d-b47e-a70ce04e439b)
 
 
 ## PROGRAM 
@@ -95,7 +90,6 @@ void loop()
 
 ![WhatsApp Image 2024-02-15 at 10 59 19_ddec186b](https://github.com/Harish2404lll/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/141472096/dd1eb420-63e5-4eca-8986-c5f19ad72795)
 
-![Screenshot 2024-02-15 111226](https://github.com/Harish2404lll/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/141472096/b4840b90-30bc-492d-b47e-a70ce04e439b)
 
 [My image](username.github.com/repository/img/image.jpg)
 
