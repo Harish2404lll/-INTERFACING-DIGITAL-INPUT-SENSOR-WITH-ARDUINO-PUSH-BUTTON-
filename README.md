@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE : 15.02.2024
+## NAME : HARISH.G																		             
+## ROLLNUMBER : 212222243001
+## DEPARTMENT : AIML
 
 
 ## AIM:
@@ -63,23 +63,43 @@ FIGURE -03
 
 ## PROGRAM 
  
- 
+ ```
+int led=4;
+int pushbutton=3;
+void setup()
+{
+  pinMode(led,OUTPUT);
+  pinMode(pushbutton,INPUT);
+}
 
-
-
-
-
-
-
-
-
- 
- 
- 
-
-
+void loop()
+{
+  int pb;
+  pb=digitalRead(pushbutton);
+  if(pb==HIGH)
+  {
+    digitalWrite(led,HIGH);
+    delay(500);
+    digitalWrite(led,LOW);
+    delay(500);
+  }
+  else 
+  {
+    delay(500);
+    digitalWrite(led,LOW);
+  }
+}
+```
 
 ## OUTPUT OF SIMULATION :
 
+![WhatsApp Image 2024-02-15 at 10 59 19_ddec186b](https://github.com/Harish2404lll/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/141472096/dd1eb420-63e5-4eca-8986-c5f19ad72795)
+
+![Screenshot 2024-02-15 111226](https://github.com/Harish2404lll/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/141472096/b4840b90-30bc-492d-b47e-a70ce04e439b)
+
 [My image](username.github.com/repository/img/image.jpg)
+
+## RESULT :
+Thus the digtal interfacing of circuit using Aurdino circuit is completed sucessfully by tkinkercad software.
+
 
