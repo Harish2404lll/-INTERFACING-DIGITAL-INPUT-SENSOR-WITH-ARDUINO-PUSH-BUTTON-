@@ -94,6 +94,6 @@ void loop()
 [My image](username.github.com/repository/img/image.jpg)
 
 ## RESULT :
-Thus the digital interfacing of circuit using Aurdino circuit is completed sucecssfully by tinkercad software.
+Thus the digital interfacing of circuit using Aurdino circuit is completed successfully by tinkercad software.
 
 
